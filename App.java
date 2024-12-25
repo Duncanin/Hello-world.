@@ -4,4 +4,5 @@ public class App {
         System.out.println("Hello, Git!");
         System.out.println("fix the conflict.");
     }
+}
 
